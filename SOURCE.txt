@@ -1,0 +1,27 @@
+Пойдёшь? — Калиновская: экспорт для GitHub Pages
+Дата подготовки: 29 октября 2026
+Исходная версия Sites: 12
+Коммит исходного проекта: 2825f07baab347b1370aca5fe9fc80acbbe23b07
+
+Все 11 файлов самого сайта совпадают с исходным проектом побайтно.
+HTML, CSS, JavaScript, календарь, изображения и аудио не изменены.
+Добавлены только README.md, .nojekyll, .gitignore и этот файл.
+Служебные файлы Sites, Git-история и учётные данные не включены.
+
+Проверки: синтаксис JavaScript; наличие всех ресурсов; HTTP 200 для
+всех файлов при обслуживании из подпапки, как на GitHub Pages.
+Визуальное тестирование в браузере при экспорте не выполнялось.
+Публикация в GitHub ещё не выполнялась.
+
+SHA-256 исходных файлов:
+bd231088e770123a8ea87c172093841bea7e9b03a555ae0d46dfb038eb5db084  app.js
+532ccfcc4a1f0d70945455ee05ea1e34e41ecdfe255a80c2ed722f9ff242b8ff  assets/city.webp
+47038642792ebf27f6778b2db025697ea2954f99a8bd0723b72dbf268cbec373  assets/cover.webp
+4873184a4761f4fd81009a35d3485ec1ea0965f7df7200754ded9f42b3fb92a8  assets/lights.webp
+8783ca90dd88f0cc3d35500b019ada0b24d9c7980e569ee5e197f9bf0ebce998  assets/people.webp
+24aa3ae962c0eb56399a05a1773eee150e70d68ecb36edf00072d5f39d66915f  assets/poster.webp
+4da9be0a89cfd8f0ec9d07192e7c33956f30fff8c5f21fdcdb1eb416638ae8d4  assets/provozhat-zakaty-37s.mp3
+bf8661b792987b27eb29c85c70597c8e47164a28d04a3024f93d875150a95c48  assets/sky.webp
+44419b6f7bc8b87e4edb475b21ddbc4bcc11c9a8a4edb071437a08aa615f8ae1  concert.ics
+9213a2274725315f38878f4d43d50d96eed4492e09f1d41bc883102cff97abf5  index.html
+d5324e6c204d35e903aadb8a6e717033c4d29ac4f14b9526afb833561d904400  style.css

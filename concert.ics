@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kalinovskaya//Concert//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:kalinovskaya-20261101@viydesh-zakaty
+DTSTAMP:20260923T160000Z
+DTSTART:20261101T170000Z
+SUMMARY:Концерт Калиновской
+LOCATION:Cafe Unlock\, Москва\, Лубянский проезд\, 1
+ 9\, стр. 1
+DESCRIPTION:Сбор гостей в 19:00. Начало в 20:00 по М
+ оскве. Билеты: https://moscow.qtickets.events/256365-kontsert
+ -kalinovskoy
+URL:https://moscow.qtickets.events/256365-kontsert-kalinovskoy
+END:VEVENT
+END:VCALENDAR
